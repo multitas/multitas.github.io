@@ -1,0 +1,14 @@
+.navbar-brand {
+  color: #D1832F;
+  font-family: fantasy;
+  
+}
+.navbar-brand:hover{
+  color: orangered;
+}
+.nav-link{
+  color: white;
+}
+.nav-link:hover{
+  color: rebeccapurple;
+}
